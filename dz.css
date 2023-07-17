@@ -1,0 +1,18 @@
+.form-text:focus{
+    outline: none;
+    border: 5px solid red;
+}
+
+.list-item:nth-child(even){
+    background-color: purple;
+}
+.list-item:nth-child(odd){
+    background-color: gray;
+}
+
+.list-item:first-child{
+  background-color: blue;
+}
+.list-item:last-child{
+    background-color: green;
+}
